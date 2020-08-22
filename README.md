@@ -1,5 +1,5 @@
 # My Personal Website
-+ A simple Portofolio website using **HTML, CSS and Javascript.**
++ A simple website using **HTML, CSS and Javascript.**
 + **Flask** and **Python** on the Backend.
 + *User input form* saved as **CSV** File in the server.
 + Deployed with *pythonanywhere.com*
